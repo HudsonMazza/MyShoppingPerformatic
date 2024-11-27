@@ -62,7 +62,7 @@ const Home = ({navigation}) => {
             justifyContent: 'center',
             alignItems: 'center',
             marginBottom: 8,
-          }}>
+          }}>j
           {data.isOff ? (
             <View
               style={{
